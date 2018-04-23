@@ -4,7 +4,7 @@ using System.Xml.Linq;
 using System.IO;
 using System.Collections.Generic;
 
-namespace UnityCSProjectParser
+namespace Unity.CSProject
 {
     public class UnityCSProject
     {

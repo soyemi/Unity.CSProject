@@ -1,7 +1,7 @@
 using System;
 using System.IO;
 
-namespace UnityCSProjectParser
+namespace Unity.CSProject
 {
     public class UnitySolution{
 
